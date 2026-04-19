@@ -4,7 +4,7 @@
 
 Blossom Beauty is a salon website developed to showcase a range of beauty services, including hair, nails, and skincare treatments. The website is designed to be simple, clear, and easy to navigate, allowing users to quickly find information about services, pricing, and contact details.
 
-This project was created as part of a first-year Web Development assignment, focusing on the use of HTML and basic design principles.
+This project was created as part of a first year Web Development assignment, focusing on the use of HTML and basic design principles.
 
 ## Objectives
 
